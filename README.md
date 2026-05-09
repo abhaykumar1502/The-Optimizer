@@ -1,13 +1,9 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=The%20Optimizer&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI-Based%20Smart%20Loan%20Recovery%20Calling%20System&descAlignY=60&descSize=18&descColor=a5b4fc" width="100%"/>
-
 <br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=true&width=700&height=60&lines=🚀+From+18%25+→+96.5%25+Collection+Success+Rate;🤖+Powered+by+NLP+%7C+ML+%7C+Sentiment+Analysis+%7C+ASR" alt="Typing SVG" />
-
 <br/><br/>
-
+ 
 <img src="https://img.shields.io/badge/Type-Research%20Paper-6366f1?style=for-the-badge&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Domain-AI%20%7C%20FinTech%20%7C%20NLP-8b5cf6?style=for-the-badge&logoColor=white" />
@@ -15,9 +11,8 @@
 <img src="https://img.shields.io/badge/Status-Active-22c55e?style=for-the-badge&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/RBI-Compliant-16a34a?style=for-the-badge&logoColor=white" />
-
 <br/><br/>
-
+ 
 <img src="https://img.shields.io/badge/Collection%20Rate-96.5%25%20✅-22c55e?style=flat-square&labelColor=052e16" />
 &nbsp;
 <img src="https://img.shields.io/badge/Cost%20Reduction-78%25%20✅-0ea5e9?style=flat-square&labelColor=0c1a35" />
@@ -25,12 +20,11 @@
 <img src="https://img.shields.io/badge/PTP%20Rate-2.07×%20Better%20✅-f97316?style=flat-square&labelColor=2d1500" />
 &nbsp;
 <img src="https://img.shields.io/badge/AI%20Handles-80%25%20Queries%20✅-a855f7?style=flat-square&labelColor=1e0935" />
-
 <br/><br/>
-
+ 
 </div>
-
 ---
+
 
 ## 👥 Team Members
 
